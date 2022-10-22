@@ -1,7 +1,0 @@
-**Database Name: ecommerceapp**
-
-**Developed by Aymen**
-
-
-**Project Folder should not be changed from "Ecommerce-app-h" to others
-without making changes in the code**
